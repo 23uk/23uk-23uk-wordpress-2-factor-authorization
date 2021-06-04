@@ -10,6 +10,7 @@ cd /home/wordpress
 ```shell script
 $ curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
 $ chmod +x wp-cli.phar
+$ mv wp-cli.phar wp
 ```
 
 ### Run docker-compose
